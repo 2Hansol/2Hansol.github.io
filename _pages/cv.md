@@ -19,6 +19,7 @@ Projects
 * IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map
   * I participated in the project of Institute for Information  communication Technology Planning & evaluation(IITP).
   * The goal of the project is the development of face image synthesis algorithms that has the same characteristics as the person up to the level below the cognitive threshold.
+  * Refer to [PDF](https://unistackr0-my.sharepoint.com/:b:/g/personal/hansollee_unist_ac_kr/EcmZh1Yo7P9AiQ9thmqd_lcBsxK39J0nDvJ6NZbQMCdKrw?e=45HpXG)
 
 Publications
 ======
