@@ -12,7 +12,7 @@ redirect_from:
 
 Research Interests
 ======
-I am interested in computer vision and deep learning. In particular, I am very interested in vision area related to human(e.g. body pose estimation, 3D face reconstruction, face reenactment, virtual try-on, etc.).
+ Computer vision based on deep learning related to humans (e.g. Face reenactment, 3D avatar reconstruction, etc.)
 
 Education
 ======
