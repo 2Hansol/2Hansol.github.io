@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/IFaceUV_gif.gif'>"
+title: "Face Reenactment"
+excerpt: "IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map <br/><img src='/images/IFaceUV_gif.gif'>"
 collection: portfolio
 ---
 
