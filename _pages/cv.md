@@ -15,7 +15,7 @@ Education
 * B.S. in Computer Science, Sookmyung Women’s University, 2021
 * M.S. in Computer Engineering, Ulsan national institute of science and technology, 2023 (expected)
 
-Projects
+**Projects**
 * IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map
   * I participated in the project of Institute for Information  communication Technology Planning & evaluation(IITP).
   * The goal of the project is the development of face image synthesis algorithms that has the same characteristics as the person up to the level below the cognitive threshold.
