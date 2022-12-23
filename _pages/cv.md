@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink:https://unistackr0-my.sharepoint.com/:b:/g/personal/hansollee_unist_ac_kr/Ed6PJVQ9IkBLuLARlBpPPiUBtwwqXjbUrXAI2OBG6Lt8Xg?e=tfEgUD
+permalink: \cv\
 author_profile: true
 redirect_from:
   - /resume
