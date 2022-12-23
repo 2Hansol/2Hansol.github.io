@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Refer to my [CV](https://unistackr0-my.sharepoint.com/:b:/g/personal/hansollee_unist_ac_kr/Ed6PJVQ9IkBLuLARlBpPPiUBtwwqXjbUrXAI2OBG6Lt8Xg?e=tfEgUD)
+Refer to [CV](https://unistackr0-my.sharepoint.com/:b:/g/personal/hansollee_unist_ac_kr/Ed6PJVQ9IkBLuLARlBpPPiUBtwwqXjbUrXAI2OBG6Lt8Xg?e=tfEgUD)
 
 Education
 ======
