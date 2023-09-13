@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Hansol Lee"
+excerpt: "Hansol Lee"
 author_profile: true
 redirect_from: 
   - /about/
