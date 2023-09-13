@@ -14,8 +14,6 @@ Research Interests
 ======
  Computer vision based on deep learning related to humans (e.g. Face reenactment, 3D avatar reconstruction, etc.)
 
-{% include base_path %}
-Refer to [CV](https://unistackr0-my.sharepoint.com/:b:/g/personal/hansollee_unist_ac_kr/Ed6PJVQ9IkBLuLARlBpPPiUBtwwqXjbUrXAI2OBG6Lt8Xg?e=tfEgUD)
 
 Education
 ======
