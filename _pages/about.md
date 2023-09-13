@@ -33,9 +33,11 @@ Projects
 Publications
 ======
 * International
+  
 **Hansol Lee**, Jaeshin Yoon, Junuk Cha, Yunhoe Ku, Seungryul Baek, “Dynamic Appearance Modeling of 3D Human Avatars using a Single Camera” , IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023, Under Review
   
 * Domestic
+
 Yunhoe Ku, **Hansol Lee**, Changhwa Lee, Minu Chung, Seon Ha, YunSeong Cho, Haeseon Jung, Hansoo Park, Eunseo Kim, Seungryul Baek, "Contour preservation and internal context improvement method for image inpainting", Image Processing and Image Understanding (IPIU), 2022.)
 
 Chanwoo Kim, Hoseong Cho, **Hansol Lee**, Yunseong Cho, Seungryul Baek, "Survey on Graph Attetnion Networks for Computer Vision Research", JKAIA, 2021
