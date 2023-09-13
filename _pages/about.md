@@ -42,7 +42,7 @@ Publications
   * Sujin Lee\*, **Hansol Lee\***, Sungwoon Moon*, Jinwoo Kim, "NLP-Based Chatbot Service for Emotional Cognition Enhancement", 2020 The HCI Society of Korea, 2020, 960
 
 
-Teaching Assitant
+Teaching Assistant
 ======
 * TA
   * LG Electronics DX Intensive Course (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea, 8 Oct. 2021.
