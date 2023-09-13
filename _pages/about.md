@@ -17,9 +17,9 @@ Research Interests
 
 Education
 ======
-* B.S. in Economics, Sookmyung Women’s University, 2021
-* B.S. in Computer Science, Sookmyung Women’s University, 2021
-* M.S. in Computer Engineering, Ulsan national institute of science and technology, 2023
+B.S. in Economics, Sookmyung Women’s University, 2021
+B.S. in Computer Science, Sookmyung Women’s University, 2021
+M.S. in Computer Engineering, Ulsan national institute of science and technology, 2023
 
 Projects
 ======
@@ -42,11 +42,11 @@ Publications
 
 Teaching Assistant
 ======
-* TA
-  * LG Electronics DX Intensive Course (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea, 8 Oct. 2021.
-  * 2nd AI Novatus Academia (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea, 17 Sep. 2021.
-  * 1st AI Novatus Academia PBL (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea, Jan. 2021 ~ Jun.2021.
-* Lecture TA
-  * 2021 Fall Introduction to AI Programming 2.
-  * 2021 Spring Human Computer Interaction.
+TA
+* LG Electronics DX Intensive Course (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea, 8 Oct. 2021.
+* 2nd AI Novatus Academia (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea, 17 Sep. 2021.
+* 1st AI Novatus Academia PBL (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea, Jan. 2021 ~ Jun.2021.
+Lecture TA
+* 2021 Fall Introduction to AI Programming 2.
+* 2021 Spring Human Computer Interaction.
   
