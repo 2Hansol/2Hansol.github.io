@@ -18,13 +18,13 @@ Research Interests
 Researches
 ======
 
-<div>
+<div style="margin-bottom: 30px;">
   <strong>Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera </strong><br>
   <strong>Hansol Lee</strong>, Junuk Cha, Yunhoe Ku, Jaeshin Yoon* and Seungryul Baek*, arXiv 2023
-  <img src='/images/IFaceUV_gif2.gif' alt="IFaceUV Demo" width="600" style="margin-top: 15px;"/>
+  <img src='/images/IFaceUV_gif2.gif' alt="Dynamic Appearance Demo" width="600" style="margin-top: 15px;"/>
 </div>
 
-<div>
+<div style="margin-bottom: 30px;">
   <strong>IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map</strong><br>
   <strong>Hansol Lee</strong>, Yunhoe Ku, Eunseo Kim, Seungryul Baek*, arXiv 2023
   <img src='/images/IFaceUV_gif2.gif' alt="IFaceUV Demo" width="600" style="margin-top: 15px;"/>
