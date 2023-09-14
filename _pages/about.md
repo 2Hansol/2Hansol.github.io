@@ -25,22 +25,24 @@ M.S. in Computer Engineering, Ulsan national institute of science and technology
 
 Researches
 ======
-* IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map
-  <div style="clear: both;">
-    <img src='/images/IFaceUV_gif2.gif' alt="IFaceUV Demo" style="float: left; margin-right: 20px; margin-bottom: 20px;" width="200"/>
-    <ul>
-      <li>I participated in the project of Institute for Information  communication Technology Planning & evaluation(IITP).</li>
-      <li>The goal of the project is the development of face image synthesis algorithms that have the same characteristics as the person up to the level below the cognitive threshold.</li>
-      <li>Refer to <a href="https://unistackr0-my.sharepoint.com/:b:/g/personal/hansollee_unist_ac_kr/EcmZh1Yo7P9AiQ9thmqd_lcBsxK39J0nDvJ6NZbQMCdKrw?e=45HpXG">PDF</a></li>
-    </ul>
-  </div>
-  
-Publications
-======
 * International
-  
+* IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map
+  <div style="overflow: auto;">
+    <div style="float: left; margin-right: 20px;">
+      <img src='/images/IFaceUV_gif2.gif' alt="IFaceUV Demo" width="200"/>
+    </div>
+    <div style="float: left; width: calc(100% - 220px);">
+      <ul>
+        <li>I participated in the project of Institute for Information  communication Technology Planning & evaluation(IITP).</li>
+        <li>The goal of the project is the development of face image synthesis algorithms that have the same characteristics as the person up to the level below the cognitive threshold.</li>
+        <li>Refer to <a href="https://unistackr0-my.sharepoint.com/:b:/g/personal/hansollee_unist_ac_kr/EcmZh1Yo7P9AiQ9thmqd_lcBsxK39J0nDvJ6NZbQMCdKrw?e=45HpXG">PDF</a></li>
+      </ul>
+    </div>
+  </div>
+
 **Hansol Lee**, Jaeshin Yoon, Junuk Cha, Yunhoe Ku, Seungryul Baek, “Dynamic Appearance Modeling of 3D Human Avatars using a Single Camera” , IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023, Under Review
-  
+
+
 * Domestic
 
 Yunhoe Ku, **Hansol Lee**, Changhwa Lee, Minu Chung, Seon Ha, YunSeong Cho, Haeseon Jung, Hansoo Park, Eunseo Kim, Seungryul Baek, "Contour preservation and internal context improvement method for image inpainting", Image Processing and Image Understanding (IPIU), 2022.)
