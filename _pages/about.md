@@ -45,7 +45,7 @@ Researches
     Junuk Cha, <strong>Hansol Lee</strong>, Jaewon Kim, Bao, Jaeshin Yoon* and Seungryul Baek*, WACV 2024 [Under Review]
   </div>
   <div style="text-align: center;">
-    <img src='/images/MutliRecon.png' alt="Multi person recon Demo" width="600" style="margin-top: 15px;"/>
+    <img src='/images/MultiRecon.png' alt="Multi person recon Demo" width="600" style="margin-top: 15px;"/>
   </div>
 </div>
 
