@@ -27,7 +27,6 @@ Researches
 ======
 International
 
-
   <div style="overflow: auto;">
     <div style="float: left; margin-right: 20px;">
       <img src='/images/IFaceUV_gif2.gif' alt="IFaceUV Demo" width="250"/>
