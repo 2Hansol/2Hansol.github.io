@@ -16,44 +16,39 @@ Education
 * B.S. in Computer Science, Sookmyung Women’s University, 2021
 * M.S. in Computer Engineering, Ulsan national institute of science and technology, 2023
 
-Experience
-======
 
-#### Intern Researcher
-- **Organization**: xrHuman Lab, Korea Institute of Science and Technology
+Research Experiences
+==========
+
+#### Researcher at xrHuman Lab
+- **Institute**: Korea Institute of Science and Technology
 - **Location**: Seoul, South Korea
-- **Date**: Mar. 2023 - Present
-- **Responsibilities**:
-  - Topic: Computer-vision based deep learning, 3D Scene reconstruction, 3D human avatar reconstruction and generation
+- **Since**: Mar 2023
+- **Work**: Deep learning in 3D scene and avatar reconstruction
 
 ---
 
-#### Master’s Course Researcher
-- **Organization**: UNIST Vision and Learning Lab, Ulsan National Institute of Science and Technology
+#### Master’s Course Researcher at UNIST Vision Lab
+- **Institute**: Ulsan National Institute of Science and Technology
 - **Location**: Ulsan, South Korea
-- **Date**: Mar. 2021 - Feb. 2023
-- **Responsibilities**:
-  - Topic: Computer-vision based deep learning, Face Reenactment, Generating of Human Avatar
+- **Date**: Mar 2021 - Feb 2023
+- **Work**: Deep learning in face reenactment and avatar generation
 
 ---
 
-#### Undergraduate Researcher
-- **Organization**: Human-Computer Interaction Lab, Yonsei University
+#### Undergraduate Researcher at Yonsei HCI Lab
+- **Institute**: Yonsei University
 - **Location**: Seoul, South Korea
-- **Date**: Sept. 2019 - Feb. 2020
-- **Responsibilities**:
-  - Participated in the development of chatbot service based on natural language processing to enhance emotional cognition
+- **Date**: Sep 2019 - Feb 2020
+- **Work**: Developed NLP chatbot for emotional cognition
 
 ---
 
-#### Undergraduate Researcher
-- **Organization**: Light Fields Lab, Sookmyung Women's University
+#### Undergraduate Researcher at Light Fields Lab
+- **Institute**: Sookmyung Women's University
 - **Location**: Seoul, South Korea
-- **Date**: Jul. 2019 - Mar. 2020
-- **Responsibilities**:
-  - Participated in a study on optimizing the virtual view dynamic synthesis algorithm of omnidirectional multi-view LF images
-  - Measure the distance of the virtual plane of the HUD (Head-Up Display)
-
+- **Date**: Jul 2019 - Mar 2020
+- **Work**: Optimized virtual view algorithms and HUD measurement
 
 
 Publications
