@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Hansol Lee"
   avatar           : "hansol.JPG"
-  bio              : "Computer Vision and Deep Learning Engineer \n Research Interests: 3D avatar reconstruction, 3D scene reconstruction and generation."
+  bio              : "Computer Vision and Deep Learning Engineer
+  bid2             : "Research Interests: 3D avatar reconstruction, 3D scene reconstruction and generation, etc."
   location         : "Seoul, South Korea"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
