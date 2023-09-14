@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Refer to [CV](https://unistackr0-my.sharepoint.com/:b:/g/personal/hansollee_unist_ac_kr/Ed6PJVQ9IkBLuLARlBpPPiUBtwwqXjbUrXAI2OBG6Lt8Xg?e=tfEgUD)
+Refer to [CV](https://1drv.ms/b/s!AgxxptoT53MUhNk-g1li77dvyoxq-Q?e=aHIJs9)
 
 Education
 ======
@@ -21,16 +21,12 @@ Projects
 * IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map
   * I participated in the project of Institute for Information  communication Technology Planning & evaluation(IITP).
   * The goal of the project is the development of face image synthesis algorithms that has the same characteristics as the person up to the level below the cognitive threshold.
-  * Refer to [PDF](https://unistackr0-my.sharepoint.com/:b:/g/personal/hansollee_unist_ac_kr/EcmZh1Yo7P9AiQ9thmqd_lcBsxK39J0nDvJ6NZbQMCdKrw?e=45HpXG)
+  * Refer to [PDF]()
 
 Publications
 ======
 International
-
   * **Hansol Lee**, Jaeshin Yoon, Junuk Cha, Yunhoe Ku, Seungryul Baek, “Dynamic Appearance Modeling of 3D Human Avatars using a Single Camera” , IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023, Under Review
-
-Domestic
-  
   * Yunhoe Ku, **Hansol Lee**, Changhwa Lee, Minu Chung, Seon Ha, YunSeong Cho, Haeseon Jung, Hansoo Park, Eunseo Kim, Seungryul Baek, "Contour preservation and internal context improvement method for image inpainting", Image Processing and Image Understanding (IPIU), 2022.) 
   * Chanwoo Kim, Hoseong Cho, **Hansol Lee**, Yunseong Cho, Seungryul Baek, "Survey on Graph Attetnion Networks for Computer Vision Research", JKAIA, 2021
   * Changhwa Lee, Seongyeong Lee, Donguk Kim, Seungeun Lee, Junuk Cha, **Hansol Lee**, Yunseong Cho, Seungryul Baek, "3D simulation via hand pose estimation and model simplification", The Korean Institute of Electrical Engineers (KIEE), 2021.
@@ -48,6 +44,11 @@ Lecture TA
 * 2021 Fall ITP11701 Introduction to AI Programming 2, UNIST, Ulsan, South Korea.
 * 2021 Spring CSE48001 Human Computer Interaction, UNIST, Ulsan, South Korea.
 
+Honors and Awards
+======
+* Paper (Encouragement) Award at IPIU 2022. \\ 
+* First Place in HCI Dream Academy, Yonsei University, 2019. \\
+* Encouragement Prize, WINE (Women in Engineering) Intensive Course Maker Hackathon, Sookmyung Women's University, 2018.\\
 
 Skills
 ======
