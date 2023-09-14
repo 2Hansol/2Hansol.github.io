@@ -24,7 +24,7 @@ Researches
     <strong>Hansol Lee</strong>, Junuk Cha, Yunhoe Ku, Jaeshin Yoon* and Seungryul Baek*, WACV 2024 [Under Review]
   </div>
   <div style="text-align: center;">
-    <img src='/images/Dynamic.gif' alt="Dynamic Appearance Demo" width="600" style="margin-top: 15px;"/>
+    <img src='/images/Dymanic.gif' alt="Dynamic Appearance Demo" width="600" style="margin-top: 15px;"/>
   </div>
 </div>
 
