@@ -65,7 +65,7 @@ Researches
   </div>
 </div>
 
-
+<!--
 <div>
   <strong>Domestic</strong>
   <ul>
@@ -76,6 +76,6 @@ Researches
     <li>Sujin Lee**, <strong>Hansol Lee**</strong>, Sungwoon Moon**, Jinwoo Kim, "NLP-Based Chatbot Service for Emotional Cognition Enhancement", 2020 The HCI Society of Korea, 2020, 960</li>
   </ul>
 </div>
-
+-->
 
 
