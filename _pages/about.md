@@ -25,18 +25,17 @@ M.S. in Computer Engineering, Ulsan national institute of science and technology
 
 Researches
 ======
-International
 
-  <div style="overflow: auto;">
-    <div style="float: left; margin-right: 20px;">
-      <img src='/images/IFaceUV_gif2.gif' alt="IFaceUV Demo" width="250"/>
-    </div>
-    <div style="float: left; width: calc(100% - 420px);">
-      <ul>
-        <li> IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map.</li>
-      </ul>
-    </div>
+<div style="overflow: auto;">
+  <div style="float: left; margin-right: 10px;">
+    <img src='/images/IFaceUV_gif2.gif' alt="IFaceUV Demo" width="300"/>
   </div>
+  <div style="float: left; width: calc(100% - 410px);">
+    <ul>
+      <li> IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map.</li>
+    </ul>
+  </div>
+</div>
 
 
 **Hansol Lee**, Jaeshin Yoon, Junuk Cha, Yunhoe Ku, Seungryul Baek, “Dynamic Appearance Modeling of 3D Human Avatars using a Single Camera” , IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023, Under Review
