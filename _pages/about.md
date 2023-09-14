@@ -23,14 +23,18 @@ B.S. in Computer Science, Sookmyung Women’s University, 2021
 
 M.S. in Computer Engineering, Ulsan national institute of science and technology, 2023
 
-Projects
+Researches
 ======
 * IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map
-  * I participated in the project of Institute for Information  communication Technology Planning & evaluation(IITP).
-  * The goal of the project is the development of face image synthesis algorithms that has the same characteristics as the person up to the level below the cognitive threshold.
-  * Refer to [PDF](https://unistackr0-my.sharepoint.com/:b:/g/personal/hansollee_unist_ac_kr/EcmZh1Yo7P9AiQ9thmqd_lcBsxK39J0nDvJ6NZbQMCdKrw?e=45HpXG)
-  * <img src='/images/IFaceUV_gif2.gif' alt="IFaceUV Demo" width="400"/>
-
+  <div style="clear: both;">
+    <img src='/images/IFaceUV_gif2.gif' alt="IFaceUV Demo" style="float: left; margin-right: 20px; margin-bottom: 20px;" width="200"/>
+    <ul>
+      <li>I participated in the project of Institute for Information  communication Technology Planning & evaluation(IITP).</li>
+      <li>The goal of the project is the development of face image synthesis algorithms that have the same characteristics as the person up to the level below the cognitive threshold.</li>
+      <li>Refer to <a href="https://unistackr0-my.sharepoint.com/:b:/g/personal/hansollee_unist_ac_kr/EcmZh1Yo7P9AiQ9thmqd_lcBsxK39J0nDvJ6NZbQMCdKrw?e=45HpXG">PDF</a></li>
+    </ul>
+  </div>
+  
 Publications
 ======
 * International
