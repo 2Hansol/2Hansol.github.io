@@ -63,18 +63,11 @@ Publications
 
 - **"PIDiffu: Pixel-aligned Diffusion Model for High-Fidelity Clothed Human Reconstruction"**, Jungeun Lee, Sanghun Kim, **Hansol Lee**, Tserendorj Adiya, Hwasup Lim*, IEEE/CVF Winter conference on Applications of Computer Vision (WACV), 2024 [Under Review] [Preprint](https://1drv.ms/b/s!AgxxptoT53MUhNk9LW5okO00Qp88FQ?e=9ZxlQp)
 
-- **3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image**
-  - Junuk Cha, **Hansol Lee**, Jaewon Kim, Bao, Jaeshin Yoon*, Seungryul Baek*
-  - IEEE/CVF Winter conference on Applications of Computer Vision (WACV), 2024 [Under Review]
-  - [Preprint](https://1drv.ms/b/s!AgxxptoT53MUhNk8OOVH0d-Qh_fkoA?e=Ap2rYg)
+- **"3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image"**, Junuk Cha, **Hansol Lee**, Jaewon Kim, Bao, Jaeshin Yoon*, Seungryul Baek*, IEEE/CVF Winter conference on Applications of Computer Vision (WACV), 2024 [Under Review] [Preprint](https://1drv.ms/b/s!AgxxptoT53MUhNk8OOVH0d-Qh_fkoA?e=Ap2rYg)
 
-- **IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map**
-  - **Hansol Lee**, Yunhoe Ku, Eunseo Kim, Seungryul Baek*
-  - arXiv 2023
+- **"IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map"**, **Hansol Lee**, Yunhoe Ku, Eunseo Kim, Seungryul Baek*, arXiv 2023
 
-- **HOReeNet: 3D-aware Hand-Object Grasping Reenactment**
-  - Changhwa Lee, Junuk Cha, **Hansol Lee**, Seongyeong Lee, Donguk Kim, Seungryul Baek
-  - arXiv 2022
+- **"HOReeNet: 3D-aware Hand-Object Grasping Reenactment"**, Changhwa Lee, Junuk Cha, **Hansol Lee**, Seongyeong Lee, Donguk Kim, Seungryul Baek, arXiv 2022
 
 - **Contour preservation and internal context improvement method for image inpainting**
   - Yunhoe Ku, **Hansol Lee**, Changhwa Lee, Minu Chung, Seon Ha, YunSeong Cho, Haeseon Jung, Hansoo Park, Eunseo Kim, Seungryul Baek
