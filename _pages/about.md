@@ -24,14 +24,14 @@ Researches
     <strong>Hansol Lee</strong>, Junuk Cha, Yunhoe Ku, Jaeshin Yoon* and Seungryul Baek*, WACV 2024 [Under Review]
   </div>
   <div style="text-align: center;">
-    <img src='/images/IFaceUV_gif2.gif' alt="Dynamic Appearance Demo" width="600" style="margin-top: 15px;"/>
+    <img src='/images/Dynamic.gif' alt="Dynamic Appearance Demo" width="600" style="margin-top: 15px;"/>
   </div>
 </div>
 
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
     <strong>PIDiffu: Pixel-aligned Diffusion Model for High-Fidelity Clothed Human Reconstruction</strong><br>
-    Jungeun Lee, Sanghun Kim, <strong>Hansol Lee</strong>, Hwasup Lim, WACV 2024 [Under Review]
+    Jungeun Lee, Sanghun Kim, <strong>Hansol Lee</strong>, Tserendorj Adiya,  Hwasup Lim, WACV 2024 [Under Review]
   </div>
   <div style="text-align: center;">
     <img src='/images/PIDiffu.png' alt="PIDiffu Demo" width="600" style="margin-top: 15px;"/>
