@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Refer to [CV](https://1drv.ms/b/s!AgxxptoT53MUhNk-g1li77dvyoxq-Q?e=aHIJs9)
+Refer to [CV](https://1drv.ms/b/s!AgxxptoT53MUhNlAmivs9dv7IEDnEA?e=lNEwJn)
 
 Education
 ======
