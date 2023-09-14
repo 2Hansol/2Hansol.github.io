@@ -11,6 +11,7 @@ redirect_from:
 **Refer to [CV](https://1drv.ms/b/s!AgxxptoT53MUhNlAmivs9dv7IEDnEA?e=lNEwJn)**
 
 ---
+
 Education
 ======
 * B.S. in Economics, Sookmyung Women’s University, 2021
@@ -18,6 +19,7 @@ Education
 * M.S. in Computer Engineering, Ulsan national institute of science and technology, 2023
 
 ---
+
 Research Experiences
 ==========
 
@@ -42,6 +44,7 @@ Research Experiences
 - **Work**: Optimized virtual view algorithms and HUD measurement
 
 ---
+
 Publications
 ======
 
@@ -64,6 +67,7 @@ Publications
 - **"NLP-Based Chatbot Service for Emotional Cognition Enhancement"**, Sujin Lee*, **Hansol Lee***, Sungwoon Moon*, Jinwoo Kim (*co-author), 2020 The HCI Society of Korea, 2020
 
 ---
+
 Teaching Assistant
 ======
 ### TA
@@ -76,6 +80,7 @@ Teaching Assistant
 * 2021 Spring CSE48001 Human Computer Interaction, UNIST, Ulsan, South Korea.
 
 ---
+
 Honors and Awards
 ======
 * Paper (Encouragement) Award at IPIU 2022. 
@@ -83,6 +88,7 @@ Honors and Awards
 * Encouragement Prize, WINE (Women in Engineering) Intensive Course Maker Hackathon, Sookmyung Women's University, 2018. 
 
 ---
+
 Skills
 ======
 * Python
