@@ -45,8 +45,8 @@ TA
 * 1st AI Novatus Academia PBL (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea, Jan. 2021 ~ Jun.2021.
 
 Lecture TA
-* 2021 Fall Introduction to AI Programming 2, Ulsan National Institute of Science and Technology.
-* 2021 Spring Human Computer Interaction, Ulsan National Institute of Science and Technology.
+* 2021 Fall ITP11701 Introduction to AI Programming 2, UNIST, Ulsan, South Korea.
+* 2021 Spring CSE48001 Human Computer Interaction, UNIST, Ulsan, South Korea.
 
 
 Skills
