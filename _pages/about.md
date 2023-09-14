@@ -27,14 +27,14 @@ Researches
 <div style="margin-bottom: 30px;">
   <strong> PIDiffu: Pixel-aligned Diffusion Model for High-Fidelity Clothed Human Reconstruction </strong><br>
   Jungeun Lee, Sanghun Kim, <strong>Hansol Lee</strong>, t ,Hwasup Lim, WACV 2024 [Under Reivew]
-  <img src='/images/PIDiffu.png' alt="Dynamic Appearance Demo" width="600" style="margin-top: 15px;"/>
+  <img src='/images/PIDiffu.png' alt="PIDiffu Demo" width="600" style="margin-top: 15px;"/>
 </div>
 
 
 <div style="margin-bottom: 30px;">
   <strong> 3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image </strong><br>
   Junuk Cha, <strong>Hansol Lee</strong>, Jaewon Kim, bao ,Jaeshin Yoon* and Seungryul Baek*, WACV 2024 [Under Reivew]
-  <img src='/images/IFaceUV_gif2.gif' alt="Dynamic Appearance Demo" width="600" style="margin-top: 15px;"/>
+  <img src='/images/IFaceUV_gif2.gif' alt="Multi person recon Demo" width="600" style="margin-top: 15px;"/>
 </div>
 
 <div style="margin-bottom: 30px;">
