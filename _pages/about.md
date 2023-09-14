@@ -27,16 +27,14 @@ Researches
 ======
 International
 
-* IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map
+
   <div style="overflow: auto;">
     <div style="float: left; margin-right: 20px;">
-      <img src='/images/IFaceUV_gif2.gif' alt="IFaceUV Demo" width="400"/>
+      <img src='/images/IFaceUV_gif2.gif' alt="IFaceUV Demo" width="250"/>
     </div>
     <div style="float: left; width: calc(100% - 420px);">
       <ul>
-        <li>I participated in the project of Institute for Information  communication Technology Planning & evaluation(IITP).</li>
-        <li>The goal of the project is the development of face image synthesis algorithms that have the same characteristics as the person up to the level below the cognitive threshold.</li>
-        <li>Refer to <a href="https://unistackr0-my.sharepoint.com/:b:/g/personal/hansollee_unist_ac_kr/EcmZh1Yo7P9AiQ9thmqd_lcBsxK39J0nDvJ6NZbQMCdKrw?e=45HpXG">PDF</a></li>
+        <li> IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map.</li>
       </ul>
     </div>
   </div>
