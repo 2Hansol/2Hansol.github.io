@@ -21,29 +21,25 @@ Research Experiences
 ==========
 
 ### Researcher at xrHuman Lab
-- **Institute**: Korea Institute of Science and Technology
-- **Location**: Seoul, South Korea
+- **Institute**: Korea Institute of Science and Technology, Seoul, South Korea
 - **Since**: Mar 2023
 - **Work**: Deep learning in 3D scene and avatar reconstruction
 
 ---
 ### Master’s Course Researcher at UNIST Vision Lab
-- **Institute**: Ulsan National Institute of Science and Technology
-- **Location**: Ulsan, South Korea
+- **Institute**: Ulsan National Institute of Science and Technology, Ulsan, South Korea
 - **Date**: Mar 2021 - Feb 2023
 - **Work**: Deep learning in face reenactment and avatar generation
 
 ---
 ### Undergraduate Researcher at Yonsei HCI Lab
-- **Institute**: Yonsei University
-- **Location**: Seoul, South Korea
+- **Institute**: Yonsei University, Seoul, South Korea
 - **Date**: Sep 2019 - Feb 2020
 - **Work**: Developed NLP chatbot for emotional cognition
 
 ---
 ### Undergraduate Researcher at Light Fields Lab
-- **Institute**: Sookmyung Women's University
-- **Location**: Seoul, South Korea
+- **Institute**: Sookmyung Women's University, Seoul, South Korea
 - **Date**: Jul 2019 - Mar 2020
 - **Work**: Optimized virtual view algorithms and HUD measurement
 
