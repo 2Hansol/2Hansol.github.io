@@ -17,15 +17,19 @@ Research Interests
 
 Researches
 ======
+
 <div>
-  <strong>IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map</strong><br>
-  Hansol Lee, Yunhoe Ku, Eunseo Kim, Seungryul Baek, arXiv 2023
+  <strong>Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera </strong><br>
+  <strong>Hansol Lee</strong>, Junuk Cha, Yunhoe Ku, Jaeshin Yoon* and Seungryul Baek*, arXiv 2023
   <img src='/images/IFaceUV_gif2.gif' alt="IFaceUV Demo" width="600" style="margin-top: 15px;"/>
 </div>
 
+<div>
+  <strong>IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map</strong><br>
+  <strong>Hansol Lee</strong>, Yunhoe Ku, Eunseo Kim, Seungryul Baek*, arXiv 2023
+  <img src='/images/IFaceUV_gif2.gif' alt="IFaceUV Demo" width="600" style="margin-top: 15px;"/>
+</div>
 
-
-**Hansol Lee**, Jaeshin Yoon, Junuk Cha, Yunhoe Ku, Seungryul Baek, “Dynamic Appearance Modeling of 3D Human Avatars using a Single Camera” , IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023, Under Review
 
 
 Domestic
