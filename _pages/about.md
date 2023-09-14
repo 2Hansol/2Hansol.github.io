@@ -25,7 +25,8 @@ M.S. in Computer Engineering, Ulsan national institute of science and technology
 
 Researches
 ======
-* International
+International
+
 * IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map
   <div style="overflow: auto;">
     <div style="float: left; margin-right: 20px;">
@@ -44,7 +45,7 @@ Researches
 **Hansol Lee**, Jaeshin Yoon, Junuk Cha, Yunhoe Ku, Seungryul Baek, “Dynamic Appearance Modeling of 3D Human Avatars using a Single Camera” , IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023, Under Review
 
 
-* Domestic
+Domestic
 
 Yunhoe Ku, **Hansol Lee**, Changhwa Lee, Minu Chung, Seon Ha, YunSeong Cho, Haeseon Jung, Hansoo Park, Eunseo Kim, Seungryul Baek, "Contour preservation and internal context improvement method for image inpainting", Image Processing and Image Understanding (IPIU), 2022.)
 
