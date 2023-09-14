@@ -20,31 +20,28 @@ Education
 Research Experiences
 ==========
 
-#### Researcher at xrHuman Lab
+### Researcher at xrHuman Lab
 - **Institute**: Korea Institute of Science and Technology
 - **Location**: Seoul, South Korea
 - **Since**: Mar 2023
 - **Work**: Deep learning in 3D scene and avatar reconstruction
 
 ---
-
-#### Master’s Course Researcher at UNIST Vision Lab
+### Master’s Course Researcher at UNIST Vision Lab
 - **Institute**: Ulsan National Institute of Science and Technology
 - **Location**: Ulsan, South Korea
 - **Date**: Mar 2021 - Feb 2023
 - **Work**: Deep learning in face reenactment and avatar generation
 
 ---
-
-#### Undergraduate Researcher at Yonsei HCI Lab
+### Undergraduate Researcher at Yonsei HCI Lab
 - **Institute**: Yonsei University
 - **Location**: Seoul, South Korea
 - **Date**: Sep 2019 - Feb 2020
 - **Work**: Developed NLP chatbot for emotional cognition
 
 ---
-
-#### Undergraduate Researcher at Light Fields Lab
+### Undergraduate Researcher at Light Fields Lab
 - **Institute**: Sookmyung Women's University
 - **Location**: Seoul, South Korea
 - **Date**: Jul 2019 - Mar 2020
@@ -75,12 +72,12 @@ Publications
 
 Teaching Assistant
 ======
-#### TA
+### TA
 * LG Electronics DX Intensive Course (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea, 8 Oct. 2021.
 * 2nd AI Novatus Academia (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea, 17 Sep. 2021.
 * 1st AI Novatus Academia PBL (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea, Jan. 2021 ~ Jun.2021.
 
-#### Lecture TA
+### Lecture TA
 * 2021 Fall ITP11701 Introduction to AI Programming 2, UNIST, Ulsan, South Korea.
 * 2021 Spring CSE48001 Human Computer Interaction, UNIST, Ulsan, South Korea.
 
