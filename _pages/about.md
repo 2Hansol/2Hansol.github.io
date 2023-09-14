@@ -12,7 +12,7 @@ redirect_from:
 
 Research Interests
 ======
- Computer vision based on deep learning related to humans (e.g. Face reenactment, 3D avatar reconstruction, etc.)
+ Computer vision based on deep learning related to 3D and humans (e.g.3D avatar reconstruction, 3D scene reconstruction and generation, etc.)
 
 
 Researches
