@@ -69,23 +69,13 @@ Publications
 
 - **"HOReeNet: 3D-aware Hand-Object Grasping Reenactment"**, Changhwa Lee, Junuk Cha, **Hansol Lee**, Seongyeong Lee, Donguk Kim, Seungryul Baek, arXiv 2022
 
-- **Contour preservation and internal context improvement method for image inpainting**
-  - Yunhoe Ku, **Hansol Lee**, Changhwa Lee, Minu Chung, Seon Ha, YunSeong Cho, Haeseon Jung, Hansoo Park, Eunseo Kim, Seungryul Baek
-  - Image Processing and Image Understanding (IPIU), 2022
+- **"Contour preservation and internal context improvement method for image inpainting"**, Yunhoe Ku, **Hansol Lee**, Changhwa Lee, Minu Chung, Seon Ha, YunSeong Cho, Haeseon Jung, Hansoo Park, Eunseo Kim, Seungryul Baek, Image Processing and Image Understanding (IPIU), 2022
 
-- **3D simulation via hand pose estimation and model simplification**
-  - Changhwa Lee, Seongyeong Lee, Donguk Kim, Seungeun Lee, Junuk Cha, **Hansol Lee**, Yunseong Cho, Seungryul Baek
-  - The Korean Institute of Electrical Engineers (KIEE), 2021
+- **"3D simulation via hand pose estimation and model simplification"**, Changhwa Lee, Seongyeong Lee, Donguk Kim, Seungeun Lee, Junuk Cha, **Hansol Lee**, Yunseong Cho, Seungryul Baek, The Korean Institute of Electrical Engineers (KIEE), 2021
 
-- **A Study on the Digital Therapeutics Chatbot, U-Me for Alleviating Depression and Anxiety of Young Adults in 2030s**
-  - Jungyeon Lee, Chanmi Park, Sungwoon Moon, **Hansol Lee**, Sujin Lee, Jinwoo Kim
-  - 2020 The HCI Society of Korea, 2020
+- **"A Study on the Digital Therapeutics Chatbot, U-Me for Alleviating Depression and Anxiety of Young Adults in 2030s"**, Jungyeon Lee, Chanmi Park, Sungwoon Moon, **Hansol Lee**, Sujin Lee, Jinwoo Kim, 2020 The HCI Society of Korea, 2020
 
-- **NLP-Based Chatbot Service for Emotional Cognition Enhancement**
-  - Sujin Lee*, **Hansol Lee***, Sungwoon Moon*, Jinwoo Kim (*co-author)
-  - 2020 The HCI Society of Korea, 2020
-
-
+- **"NLP-Based Chatbot Service for Emotional Cognition Enhancement"**, Sujin Lee*, **Hansol Lee***, Sungwoon Moon*, Jinwoo Kim (*co-author), 2020 The HCI Society of Korea, 2020
 
 
 Teaching Assistant
