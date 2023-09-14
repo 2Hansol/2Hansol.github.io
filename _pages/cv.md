@@ -10,13 +10,14 @@ redirect_from:
 {% include base_path %}
 **Refer to [CV](https://1drv.ms/b/s!AgxxptoT53MUhNlAmivs9dv7IEDnEA?e=lNEwJn)**
 
+---
 Education
 ======
 * B.S. in Economics, Sookmyung Women’s University, 2021
 * B.S. in Computer Science, Sookmyung Women’s University, 2021
 * M.S. in Computer Engineering, Ulsan national institute of science and technology, 2023
 
-
+---
 Research Experiences
 ==========
 
@@ -25,25 +26,22 @@ Research Experiences
 - **Since**: Mar 2023
 - **Work**: Deep learning in 3D scene and avatar reconstruction
 
----
 ### Master’s Course Researcher at UNIST Vision Lab
 - **Institute**: Ulsan National Institute of Science and Technology, Ulsan, South Korea
 - **Date**: Mar 2021 - Feb 2023
 - **Work**: Deep learning in face reenactment and avatar generation
 
----
 ### Undergraduate Researcher at Yonsei HCI Lab
 - **Institute**: Yonsei University, Seoul, South Korea
 - **Date**: Sep 2019 - Feb 2020
 - **Work**: Developed NLP chatbot for emotional cognition
 
----
 ### Undergraduate Researcher at Light Fields Lab
 - **Institute**: Sookmyung Women's University, Seoul, South Korea
 - **Date**: Jul 2019 - Mar 2020
 - **Work**: Optimized virtual view algorithms and HUD measurement
 
-
+---
 Publications
 ======
 
@@ -65,7 +63,7 @@ Publications
 
 - **"NLP-Based Chatbot Service for Emotional Cognition Enhancement"**, Sujin Lee*, **Hansol Lee***, Sungwoon Moon*, Jinwoo Kim (*co-author), 2020 The HCI Society of Korea, 2020
 
-
+---
 Teaching Assistant
 ======
 ### TA
@@ -77,14 +75,14 @@ Teaching Assistant
 * 2021 Fall ITP11701 Introduction to AI Programming 2, UNIST, Ulsan, South Korea.
 * 2021 Spring CSE48001 Human Computer Interaction, UNIST, Ulsan, South Korea.
 
-
+---
 Honors and Awards
 ======
 * Paper (Encouragement) Award at IPIU 2022. 
 * First Place in HCI Dream Academy, Yonsei University, 2019. 
 * Encouragement Prize, WINE (Women in Engineering) Intensive Course Maker Hackathon, Sookmyung Women's University, 2018. 
 
-
+---
 Skills
 ======
 * Python
