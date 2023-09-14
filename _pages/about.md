@@ -13,8 +13,8 @@ About Me
 ======
 
 Hello, I'm **Hansol Lee**, a **Computer Vision and Deep Learning Engineer** with specialized research interests in **3D avatar reconstruction, 3D scene reconstruction, and generation**.
-I'm currently an Intern Researcher at [xrHuman Lab](https://www.xrhumanlab.net/), KIST, where I focus on reconstructing 3D scenes, including people and objects, from multi-views.
-I earned dual Bachelor's degrees in Economics and Computer Science from Sookmyung Women's University in Seoul, South Korea, and a Master's degree in Computer Engineering from UNIST in Ulsan, South Korea.
+I'm currently an Intern Researcher at [xrHuman Lab](https://www.xrhumanlab.net/), Korea Institute of Science and Technology, where I focus on reconstructing 3D scenes, including people and objects, from multi-views.
+I earned dual Bachelor's degrees in Economics and Computer Science from Sookmyung Women's University in Seoul, South Korea, and a Master's degree in Computer Engineering from Ulsan National Institute of Science in Ulsan, South Korea.
 
 **Research Interests**
 Computer vision based on deep learning related to 3D and humans (e.g., 3D avatar reconstruction, 3D scene reconstruction and generation, etc.)
