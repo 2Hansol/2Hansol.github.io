@@ -14,7 +14,7 @@ Education
 ======
 * B.S. in Economics, Sookmyung Women’s University, 2021
 * B.S. in Computer Science, Sookmyung Women’s University, 2021
-* M.S. in Computer Engineering, Ulsan national institute of science and technology, 2023 (expected)
+* M.S. in Computer Engineering, Ulsan national institute of science and technology, 2023
 
 Projects
 ======
