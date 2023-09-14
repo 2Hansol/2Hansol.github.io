@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Refer to [CV](https://1drv.ms/b/s!AgxxptoT53MUhNlAmivs9dv7IEDnEA?e=lNEwJn)
+**Refer to [CV](https://1drv.ms/b/s!AgxxptoT53MUhNlAmivs9dv7IEDnEA?e=lNEwJn)**
 
 Education
 ======
@@ -61,9 +61,9 @@ Publications
 
 - **"Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera"**, **Hansol Lee**, Junuk Cha, Yunhoe Ku, Jaeshin Yoon*, Seungryul Baek*, IEEE/CVF Winter conference on Applications of Computer Vision (WACV), 2024 [Under Review] [Preprint](https://1drv.ms/b/s!AgxxptoT53MUhNk7T8ZZK45VdT7N4w?e=jaFaNp)
 
-- **"PIDiffu: Pixel-aligned Diffusion Model for High-Fidelity Clothed Human Reconstruction"**, Jungeun Lee, Sanghun Kim, **Hansol Lee**, Tserendorj Adiya, Hwasup Lim*, IEEE/CVF Winter conference on Applications of Computer Vision (WACV), 2024 [Under Review] [Preprint](https://1drv.ms/b/s!AgxxptoT53MUhNk9LW5okO00Qp88FQ?e=9ZxlQp)
+- **"PIDiffu: Pixel-aligned Diffusion Model for High-Fidelity Clothed Human Reconstruction"**, Jungeun Lee, Sanghun Kim, **Hansol Lee**, Tserendorj Adiya, Hwasup Lim*, IEEE/CVF Winter conference on Applications of Computer Vision (WACV), 2024 [Under Review]
 
-- **"3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image"**, Junuk Cha, **Hansol Lee**, Jaewon Kim, Bao, Jaeshin Yoon*, Seungryul Baek*, IEEE/CVF Winter conference on Applications of Computer Vision (WACV), 2024 [Under Review] [Preprint](https://1drv.ms/b/s!AgxxptoT53MUhNk8OOVH0d-Qh_fkoA?e=Ap2rYg)
+- **"3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image"**, Junuk Cha, **Hansol Lee**, Jaewon Kim, Bao, Jaeshin Yoon*, Seungryul Baek*, IEEE/CVF Winter conference on Applications of Computer Vision (WACV), 2024 [Under Review]
 
 - **"IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map"**, **Hansol Lee**, Yunhoe Ku, Eunseo Kim, Seungryul Baek*, arXiv 2023
 
@@ -80,12 +80,12 @@ Publications
 
 Teaching Assistant
 ======
-TA
+#### TA
 * LG Electronics DX Intensive Course (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea, 8 Oct. 2021.
 * 2nd AI Novatus Academia (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea, 17 Sep. 2021.
 * 1st AI Novatus Academia PBL (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea, Jan. 2021 ~ Jun.2021.
 
-Lecture TA
+#### Lecture TA
 * 2021 Fall ITP11701 Introduction to AI Programming 2, UNIST, Ulsan, South Korea.
 * 2021 Spring CSE48001 Human Computer Interaction, UNIST, Ulsan, South Korea.
 
