@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-
-
-Research Interests
+About Me
 ======
- Computer vision based on deep learning related to 3D and humans (e.g.3D avatar reconstruction, 3D scene reconstruction and generation, etc.)
+
+Hello, I'm **Hansol Lee**, a **Computer Vision and Deep Learning Engineer** with specialized research interests in **3D avatar reconstruction, 3D scene reconstruction, and generation**.
+I'm currently an at [**XRHuman Lab, KIST**](https://www.xrhumanlab.net/), where I focus on **reconstruction 3D scenes, including people and objects, from multi-views**.
+I hold dual **Bachelor's degrees in Economics and Computer Science** from **Sookmyung Women's University** and a **Master's degree in Computer Engineering** from **UNIST**.
+
+**Research Interests**
+Computer vision based on deep learning related to 3D and humans (e.g., 3D avatar reconstruction, 3D scene reconstruction and generation, etc.)
 
 
 Researches
