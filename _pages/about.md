@@ -19,28 +19,45 @@ Researches
 ======
 
 <div style="margin-bottom: 30px;">
-  <strong> Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera </strong><br>
-  <strong>Hansol Lee</strong>, Junuk Cha, Yunhoe Ku, Jaeshin Yoon* and Seungryul Baek*, WACV 2024 [Under Reivew]
-  <img src='/images/IFaceUV_gif2.gif' alt="Dynamic Appearance Demo" width="600" style="margin-top: 15px;"/>
+  <div style="margin-bottom: 15px;">
+    <strong>Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera</strong><br>
+    <strong>Hansol Lee</strong>, Junuk Cha, Yunhoe Ku, Jaeshin Yoon* and Seungryul Baek*, WACV 2024 [Under Review]
+  </div>
+  <div style="text-align: center;">
+    <img src='/images/IFaceUV_gif2.gif' alt="Dynamic Appearance Demo" width="600" style="margin-top: 15px;"/>
+  </div>
 </div>
 
 <div style="margin-bottom: 30px;">
-  <strong> PIDiffu: Pixel-aligned Diffusion Model for High-Fidelity Clothed Human Reconstruction </strong><br>
-  Jungeun Lee, Sanghun Kim, <strong>Hansol Lee</strong>, t ,Hwasup Lim, WACV 2024 [Under Reivew]
-  <img src='/images/PIDiffu.png' alt="PIDiffu Demo" width="600" style="margin-top: 15px;"/>
+  <div style="margin-bottom: 15px;">
+    <strong>PIDiffu: Pixel-aligned Diffusion Model for High-Fidelity Clothed Human Reconstruction</strong><br>
+    Jungeun Lee, Sanghun Kim, <strong>Hansol Lee</strong>, Hwasup Lim, WACV 2024 [Under Review]
+  </div>
+  <div style="text-align: center;">
+    <img src='/images/PIDiffu.png' alt="PIDiffu Demo" width="600" style="margin-top: 15px;"/>
+  </div>
 </div>
 
-
+<!-- Second Project -->
 <div style="margin-bottom: 30px;">
-  <strong> 3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image </strong><br>
-  Junuk Cha, <strong>Hansol Lee</strong>, Jaewon Kim, bao ,Jaeshin Yoon* and Seungryul Baek*, WACV 2024 [Under Reivew]
-  <img src='/images/IFaceUV_gif2.gif' alt="Multi person recon Demo" width="600" style="margin-top: 15px;"/>
+  <div style="margin-bottom: 15px;">
+    <strong>3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image</strong><br>
+    Junuk Cha, <strong>Hansol Lee</strong>, Jaewon Kim, Bao, Jaeshin Yoon* and Seungryul Baek*, WACV 2024 [Under Review]
+  </div>
+  <div style="text-align: center;">
+    <img src='/images/MutliRecon.png' alt="Multi person recon Demo" width="600" style="margin-top: 15px;"/>
+  </div>
 </div>
 
+<!-- Third Project -->
 <div style="margin-bottom: 30px;">
-  <strong> IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map</strong><br>
-  <strong>Hansol Lee</strong>, Yunhoe Ku, Eunseo Kim, Seungryul Baek*, arXiv 2023
-  <img src='/images/IFaceUV_gif2.gif' alt="IFaceUV Demo" width="600" style="margin-top: 15px;"/>
+  <div style="margin-bottom: 15px;">
+    <strong>IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map</strong><br>
+    <strong>Hansol Lee</strong>, Yunhoe Ku, Eunseo Kim, Seungryul Baek*, arXiv 2023
+  </div>
+  <div style="text-align: center;">
+    <img src='/images/IFaceUV_gif2.gif' alt="IFaceUV Demo" width="600" style="margin-top: 15px;"/>
+  </div>
 </div>
 
 
