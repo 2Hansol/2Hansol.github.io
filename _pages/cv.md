@@ -25,25 +25,29 @@ Projects
 
 Publications
 ======
-* International
+International
+
   * **Hansol Lee**, Jaeshin Yoon, Junuk Cha, Yunhoe Ku, Seungryul Baek, “Dynamic Appearance Modeling of 3D Human Avatars using a Single Camera” , IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023, Under Review
-* Domestic
+
+Domestic
+  
   * Yunhoe Ku, **Hansol Lee**, Changhwa Lee, Minu Chung, Seon Ha, YunSeong Cho, Haeseon Jung, Hansoo Park, Eunseo Kim, Seungryul Baek, "Contour preservation and internal context improvement method for image inpainting", Image Processing and Image Understanding (IPIU), 2022.) 
   * Chanwoo Kim, Hoseong Cho, **Hansol Lee**, Yunseong Cho, Seungryul Baek, "Survey on Graph Attetnion Networks for Computer Vision Research", JKAIA, 2021
   * Changhwa Lee, Seongyeong Lee, Donguk Kim, Seungeun Lee, Junuk Cha, **Hansol Lee**, Yunseong Cho, Seungryul Baek, "3D simulation via hand pose estimation and model simplification", The Korean Institute of Electrical Engineers (KIEE), 2021.
   * Jungyeon Lee, Chanmi Park, Sungwoon Moon, **Hansol Lee**, Sujin Lee, Jinwoo Kim, "A Study on the Digital Therapeutics Chatbot, U-Me for Alleviating Depression and Anxiety of Young Adults in 2030s", 2020 The HCI Society of Korea, 2020, 907
   * Sujin Lee\*, **Hansol Lee\***, Sungwoon Moon*, Jinwoo Kim, "NLP-Based Chatbot Service for Emotional Cognition Enhancement", 2020 The HCI Society of Korea, 2020, 960
 
-
-
-<!-- Teaching
+Teaching Assistant
 ======
-* Teaching assistant
- Hong Kong University of Science and Technology. CSE 2011: Object-Oriented Programming. Spring 2018
-Hong Kong University of Science and Technology. CSE 3111: Software Engineering. Fall 2017
-Hong Kong University of Science and Technology. CSE 3111: Software Engineering. Fall 2016
-Georgia Institute of Technology. CS 6340: Software Testing and Analysis. Spring 2013
- -->
+TA
+* LG Electronics DX Intensive Course (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea, 8 Oct. 2021.
+* 2nd AI Novatus Academia (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea, 17 Sep. 2021.
+* 1st AI Novatus Academia PBL (Computer Vision part) at UNIST AI Innovation Park, Ulsan, South Korea, Jan. 2021 ~ Jun.2021.
+
+Lecture TA
+* 2021 Fall Introduction to AI Programming 2, Ulsan National Institute of Science and Technology.
+* 2021 Spring Human Computer Interaction, Ulsan National Institute of Science and Technology.
+
 
 Skills
 ======
