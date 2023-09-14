@@ -25,16 +25,9 @@ M.S. in Computer Engineering, Ulsan national institute of science and technology
 
 Researches
 ======
-
-<div style="overflow: auto;">
-  <div style="float: left; margin-right: 10px;">
-    <img src='/images/IFaceUV_gif2.gif' alt="IFaceUV Demo" width="300"/>
-  </div>
-  <div style="float: left; width: calc(100% - 410px);">
-    <ul>
-      <li> IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map.</li>
-    </ul>
-  </div>
+<div>
+  <strong> IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map</strong>
+  <img src='/images/IFaceUV_gif2.gif' alt="IFaceUV Demo" width="400"/>
 </div>
 
 
