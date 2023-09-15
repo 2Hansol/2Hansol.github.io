@@ -68,6 +68,17 @@ Publications
 
 ---
 
+Projects
+======
+### ARacer: AR-Multiplayer Game
+- **School**: Sookmyung Women's University
+- **Type**: Graduation Project
+- **Date**: Jan - May 2020
+- **Github**: [Link](https://github.com/2Hansol/ARacer_AR-Multiplayer-Game)
+
+
+---
+
 Teaching Assistant
 ======
 ### TA
