@@ -70,8 +70,8 @@ Publications
 
 Projects
 ======
-**"ARacer: AR-Multiplayer Game"**, Augmented Reality-based Game Development  
-Sookmyung Women's University, Jan - May 2020, [Github](https://github.com/2Hansol/ARacer_AR-Multiplayer-Game)
+**"ARacer: AR-Multiplayer Game"**, Augmented Reality-based Game Development (Graduation Project),  
+Sookmyung Women's University, Jan - May 2020, [Github](https://github.com/2Hansol/ARacer_AR-Multiplayer-Game).
 
 
 ---
