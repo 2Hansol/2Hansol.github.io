@@ -26,7 +26,7 @@ Researches
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
     <strong>Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera</strong><br>
-    <strong>Hansol Lee</strong>, Junuk Cha, Yunhoe Ku, Jaeshin Yoon* and Seungryul Baek*,  arXiv 2024
+    <strong>Hansol Lee</strong>, Junuk Cha, Yunhoe Ku, Jaeshin Yoon* and Seungryul Baek*,  arXiv 2024 [pdf](https://arxiv.org/abs/2312.16842/)
   </div>
   <div style="text-align: center;">
     <img src='/images/Dymanic.gif' alt="Dynamic Appearance Demo" width="600" style="margin-top: 15px;"/>
@@ -58,7 +58,7 @@ Researches
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
     <strong>IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map</strong><br>
-    <strong>Hansol Lee</strong>, Yunhoe Ku, Eunseo Kim, Seungryul Baek*, arXiv 2023
+    <strong>Hansol Lee</strong>, Yunhoe Ku, Eunseo Kim, Seungryul Baek*, arXiv 2023 
   </div>
   <div style="text-align: center;">
     <img src='/images/IFaceUV_gif2.gif' alt="IFaceUV Demo" width="600" style="margin-top: 15px;"/>
