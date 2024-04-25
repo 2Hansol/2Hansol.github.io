@@ -48,11 +48,11 @@ Research Experiences
 Publications
 ======
 
-- **"Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera"**, **Hansol Lee**, Junuk Cha, Yunhoe Ku, Jaeshin Yoon\* and Seungryul Baek\*, IEEE/CVF Winter conference on Applications of Computer Vision (WACV), 2024 [Under Review] [Preprint](https://1drv.ms/b/s!AgxxptoT53MUhNk7T8ZZK45VdT7N4w?e=jaFaNp)
+- **"Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera"**, **Hansol Lee**, Junuk Cha, Yunhoe Ku, Jaeshin Yoon\* and Seungryul Baek\*, arXiv 2024
 
-- **"PIDiffu: Pixel-aligned Diffusion Model for High-Fidelity Clothed Human Reconstruction"**, Jungeun Lee, Sanghun Kim, **Hansol Lee**, Tserendorj Adiya, Hwasup Lim\*, IEEE/CVF Winter conference on Applications of Computer Vision (WACV), 2024 [Under Review]
+- **"PIDiffu: Pixel-aligned Diffusion Model for High-Fidelity Clothed Human Reconstruction"**, Jungeun Lee, Sanghun Kim, **Hansol Lee**, Tserendorj Adiya, Hwasup Lim\*, IEEE/CVF Winter conference on Applications of Computer Vision (WACV), 2024 
 
-- **"3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image"**, Junuk Cha, **Hansol Lee**, Jaewon Kim, Bao, Jaeshin Yoon\* and Seungryul Baek\*, IEEE/CVF Winter conference on Applications of Computer Vision (WACV), 2024 [Under Review]
+- **"3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image"**, Junuk Cha, **Hansol Lee**, Jaewon Kim, Bao, Jaeshin Yoon\* and Seungryul Baek\*, IEEE/CVF Winter conference on Applications of Computer Vision (WACV), 2024
 
 - **"IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map"**, **Hansol Lee**, Yunhoe Ku, Eunseo Kim, Seungryul Baek\*, arXiv 2023
 
