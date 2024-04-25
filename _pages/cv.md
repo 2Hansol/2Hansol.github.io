@@ -48,15 +48,15 @@ Research Experiences
 Publications
 ======
 
-- **"Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera"**, **Hansol Lee**, Junuk Cha, Yunhoe Ku, Jaeshin Yoon\* and Seungryul Baek\*, arXiv 2024
+- **"Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera"**, **Hansol Lee**, Junuk Cha, Yunhoe Ku, Jaeshin Yoon\* and Seungryul Baek\*, arXiv, 2024
 
 - **"PIDiffu: Pixel-aligned Diffusion Model for High-Fidelity Clothed Human Reconstruction"**, Jungeun Lee, Sanghun Kim, **Hansol Lee**, Tserendorj Adiya, Hwasup Lim\*, IEEE/CVF Winter conference on Applications of Computer Vision (WACV), 2024 
 
 - **"3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image"**, Junuk Cha, **Hansol Lee**, Jaewon Kim, Bao, Jaeshin Yoon\* and Seungryul Baek\*, IEEE/CVF Winter conference on Applications of Computer Vision (WACV), 2024
 
-- **"IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map"**, **Hansol Lee**, Yunhoe Ku, Eunseo Kim, Seungryul Baek\*, arXiv 2023
+- **"IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map"**, **Hansol Lee**, Yunhoe Ku, Eunseo Kim, Seungryul Baek\*, arXiv, 2023
 
-- **"HOReeNet: 3D-aware Hand-Object Grasping Reenactment"**, Changhwa Lee, Junuk Cha, **Hansol Lee**, Seongyeong Lee, Donguk Kim, Seungryul Baek\*, arXiv 2022
+- **"HOReeNet: 3D-aware Hand-Object Grasping Reenactment"**, Changhwa Lee, Junuk Cha, **Hansol Lee**, Seongyeong Lee, Donguk Kim, Seungryul Baek\*, arXiv, 2022
 
 - **"Contour preservation and internal context improvement method for image inpainting"**, Yunhoe Ku, **Hansol Lee**, Changhwa Lee, Minu Chung, Seon Ha, YunSeong Cho, Haeseon Jung, Hansoo Park, Eunseo Kim, Seungryul Baek\*, Image Processing and Image Understanding (IPIU), 2022
 
