@@ -36,29 +36,27 @@ Researches
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
     <strong>PIDiffu: Pixel-aligned Diffusion Model for High-Fidelity Clothed Human Reconstruction</strong><br>
-    Jungeun Lee, Sanghun Kim, <strong>Hansol Lee</strong>, Tserendorj Adiya,  Hwasup Lim*, WACV 2024.
+    Jungeun Lee, Sanghun Kim, <strong>Hansol Lee</strong>, Tserendorj Adiya,  Hwasup Lim*, WACV 2024  <a href="https://openaccess.thecvf.com/content/WACV2024/html/Lee_PIDiffu_Pixel-Aligned_Diffusion_Model_for_High-Fidelity_Clothed_Human_Reconstruction_WACV_2024_paper.html" style="text-decoration:none;">[PDF]</a><br> 
   </div>
   <div style="text-align: center;">
     <img src='/images/PIDiffu.png' alt="PIDiffu Demo" width="600" style="margin-top: 15px;"/>
   </div>
 </div>
 
-<!-- Second Project -->
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
     <strong>3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image</strong><br>
-    Junuk Cha, <strong>Hansol Lee</strong>, Jaewon Kim, Bao, Jaeshin Yoon* and Seungryul Baek*, WACV 2024.
+    Junuk Cha, <strong>Hansol Lee</strong>, Jaewon Kim, Bao, Jaeshin Yoon* and Seungryul Baek*, WACV 2024  <a href="https://openaccess.thecvf.com/content/WACV2024/html/Cha_3D_Reconstruction_of_Interacting_Multi-Person_in_Clothing_From_a_Single_WACV_2024_paper.html" style="text-decoration:none;">[PDF]</a><br> 
   </div>
   <div style="text-align: center;">
     <img src='/images/MultiRecon.png' alt="Multi person recon Demo" width="600" style="margin-top: 15px;"/>
   </div>
 </div>
 
-<!-- Third Project -->
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
     <strong>IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map</strong><br>
-    <strong>Hansol Lee</strong>, Yunhoe Ku, Eunseo Kim, Seungryul Baek*, arXiv 2023.
+    <strong>Hansol Lee</strong>, Yunhoe Ku, Eunseo Kim, Seungryul Baek*, arXiv 2023  <a href="https://arxiv.org/abs/2306.04957" style="text-decoration:none;">[PDF]</a><br>
   </div>
   <div style="text-align: center;">
     <img src='/images/IFaceUV_gif2.gif' alt="IFaceUV Demo" width="600" style="margin-top: 15px;"/>
