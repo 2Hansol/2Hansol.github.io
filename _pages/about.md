@@ -13,8 +13,8 @@ About Me
 ======
 
 Hello, I'm **Hansol Lee**, a **Computer Vision and Deep Learning Research Engineer** with specialized research interests in **3D avatar reconstruction, 3D scene reconstruction, and generation**.
-I'm currently an Intern Researcher at [xrHuman Lab](https://www.xrhumanlab.net/), Korea Institute of Science and Technology(KIST), where I focus on reconstructing 3D scenes, including people and objects, from multi-views.
-I earned dual Bachelor's degrees in Economics and Computer Science from Sookmyung Women's University in Seoul, South Korea, and a Master's degree in Computer Engineering from Ulsan National Institute of Science and Technology(UNIST) in Ulsan, South Korea.
+I'm currently an intern researcher at [xrHuman Lab](https://www.xrhumanlab.net/), Korea Institute of Science and Technology(KIST), where I focus on 3D scene reconstruction, including people and objects, from multiple views.
+I received a dual bachelor's degree in economics and computer science from Sookmyung Women's University in Seoul, South Korea, and a master's degree in computer engineering from Ulsan National Institute of Science and Technology(UNIST) in Ulsan, South Korea.
 
 **Research Interests.**
 Computer vision based on deep learning related to 3D and humans (e.g., 3D avatar reconstruction, 3D scene reconstruction and generation, etc.)
@@ -22,6 +22,16 @@ Computer vision based on deep learning related to 3D and humans (e.g., 3D avatar
 
 Researches
 ======
+
+<div style="margin-bottom: 30px;">
+  <div style="margin-bottom: 15px;">
+    <strong>ContactField: Implicit Field Representation for Multi-Person Interaction Geometry</strong><br>
+    <strong>Hansol Lee</strong>, Tackgeun You, Hansoo Park, Woohyeon Shim, Sanghyeon Kim, Hwasup Lim, [Under Review]</a><br>
+  </div>
+  <div style="text-align: center;">
+    <img src='/images/ContactField.gif' alt="Dynamic Appearance Demo" width="1000" style="margin-top: 15px;"/>
+  </div>
+</div>
 
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
