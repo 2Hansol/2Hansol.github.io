@@ -26,7 +26,7 @@ Researches
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
     <strong>ContactField: Implicit Field Representation for Multi-Person Interaction Geometry</strong><br>
-    <strong>Hansol Lee</strong>, Tackgeun You, Hansoo Park, Woohyeon Shim, Sanghyeon Kim, Hwasup Lim, [Under Review]</a><br>
+    <strong>Hansol Lee</strong>, Tackgeun You, Hansoo Park, Woohyeon Shim, Sanghyeon Kim, Hwasup Lim, [Under Review]<br>
   </div>
   <div style="text-align: center;">
     <img src='/images/ContactField.gif' alt="Dynamic Appearance Demo" width="1000" style="margin-top: 15px;"/>
