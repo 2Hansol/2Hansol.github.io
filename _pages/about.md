@@ -94,9 +94,9 @@ Data
     <strong>Hansol Lee</strong>, Woohyeon Shim<br>
   </div>
   <div style="text-align: center;">
-    <img src='/images/data_two_person.gif' alt="two-person data" width="1000" style="margin-top: 15px;"/>
-    <img src='/images/data_three_person.gif' alt="two-person data" width="1000" style="margin-top: 15px;"/>
-    <img src='/images/data_four_person.gif' alt="two-person data" width="1000" style="margin-top: 15px;"/>
+    <img src='/images/two_person_data_example.gif' alt="two-person data" width="1000" style="margin-top: 15px;"/>
+    <img src='/images/three_person_data_example.gif' alt="three-person data" width="1000" style="margin-top: 15px;"/>
+    <img src='/images/four_person_data_example.gif' alt="four-person data" width="1000" style="margin-top: 15px;"/>
   </div>
 </div>
 
