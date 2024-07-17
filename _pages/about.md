@@ -91,12 +91,13 @@ Data
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
     <strong> Synthetic dataset of multi-person interaction geometry </strong><br>
-    <strong>Hansol Lee</strong>, Woohyeon Shim<br>
   </div>
   <div style="text-align: center;">
-    <img src='/images/two_person_data_example.gif' alt="two-person data" width="1000" style="margin-top: 15px;"/>
-    <img src='/images/three_person_data_example.gif' alt="three-person data" width="1000" style="margin-top: 15px;"/>
-    <img src='/images/four_person_data_example.gif' alt="four-person data" width="1000" style="margin-top: 15px;"/>
+    <img src='/images/synthetic_dataset.png' alt="synthetic data" width="1000" style="margin-top: 15px;"/>
   </div>
+  <div class="link-container">
+        <a href="https://1drv.ms/f/s!AgxxptoT53MUh8kLHnbAuo5AvJvJSg?e=Hd44QT">View Example Sequential Video Dataset</a>
+  </div>
+</div>
 </div>
 
