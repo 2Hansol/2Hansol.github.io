@@ -88,4 +88,15 @@ Researches
 
 Data
 ======
+<div style="margin-bottom: 30px;">
+  <div style="margin-bottom: 15px;">
+    <strong> Synthetic dataset of multi-person interaction geometry </strong><br>
+    <strong>Hansol Lee</strong>, Woohyeon Shim<br>
+  </div>
+  <div style="text-align: center;">
+    <img src='/images/data_two_person.gif' alt="two-person data" width="1000" style="margin-top: 15px;"/>
+    <img src='/images/data_three_person.gif' alt="two-person data" width="1000" style="margin-top: 15px;"/>
+    <img src='/images/data_four_person.gif' alt="two-person data" width="1000" style="margin-top: 15px;"/>
+  </div>
+</div>
 
