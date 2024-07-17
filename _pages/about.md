@@ -29,7 +29,7 @@ Researches
     <strong>Hansol Lee</strong>, Tackgeun You, Hansoo Park, Woohyeon Shim, Sanghyeon Kim, Hwasup Lim, [Under Review]<br>
   </div>
   <div style="text-align: center;">
-    <img src='/images/ContactField.gif' alt="Dynamic Appearance Demo" width="1000" style="margin-top: 15px;"/>
+    <img src='/images/ContactField2.gif' alt="Dynamic Appearance Demo" width="1000" style="margin-top: 15px;"/>
   </div>
 </div>
 
@@ -86,4 +86,6 @@ Researches
 </div>
 -->
 
+Data
+======
 
