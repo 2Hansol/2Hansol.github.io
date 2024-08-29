@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-**Refer to [CV](https://1drv.ms/b/s!AgxxptoT53MUhNlBhALBUjZDQGSGNQ?e=i3byMX)**
+
+**Refer to [CV](https://1drv.ms/b/s!AgxxptoT53MUh8lOhKNvlpB3EOaDqA?e=B1hPJg)**
 
 ---
 
