@@ -48,7 +48,7 @@ Research Experiences
 Publications
 ======
 - **"ContactField: Implicit Field Representation for Multi-Person Interaction Geometry"**, **Hansol Lee**, Tackgeun You, Hansoo Park, Woohyeon Shim, Sanghyeon Kim, Hwasup Lim*, NeurIPS, 2024 [Under Review]
-- 
+
 - **"Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera"**, **Hansol Lee**, Junuk Cha, Yunhoe Ku, Jaeshin Yoon\* and Seungryul Baek\*, arXiv, 2024
 
 - **"PIDiffu: Pixel-aligned Diffusion Model for High-Fidelity Clothed Human Reconstruction"**, Jungeun Lee, Sanghun Kim, **Hansol Lee**, Tserendorj Adiya, Hwasup Lim\*, IEEE/CVF Winter conference on Applications of Computer Vision (WACV), 2024 
