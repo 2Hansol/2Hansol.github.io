@@ -17,7 +17,7 @@ I'm currently an intern researcher at [xrHuman Lab](https://www.xrhumanlab.net/)
 I received a dual bachelor's degree in economics and computer science from Sookmyung Women's University in Seoul, South Korea, and a master's degree in computer engineering from Ulsan National Institute of Science and Technology(UNIST) in Ulsan, South Korea.
 
 **Research Interests.**
-Computer vision based on deep learning related to 3D and humans (e.g., 3D avatar reconstruction, 3D scene reconstruction and generation, etc.)
+Deep learning-driven computer vision with a focus on 3D human modeling, avatar reconstruction, and 3D scene reconstruction and generation. 
 
 
 Researches
