@@ -14,9 +14,10 @@ redirect_from:
 
 Education
 ======
+* M.S. in Computer Engineering, Ulsan national institute of science and technology, 2023
 * B.S. in Economics, Sookmyung Women’s University, 2021
 * B.S. in Computer Science, Sookmyung Women’s University, 2021
-* M.S. in Computer Engineering, Ulsan national institute of science and technology, 2023
+
 
 ---
 
