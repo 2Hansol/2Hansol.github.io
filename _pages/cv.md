@@ -103,5 +103,6 @@ Skills
 * Python
 * Pytorch
 * C++
+* C#
 * Unity
 * Omniverse (Kaolin, USD Composer)
