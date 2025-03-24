@@ -25,7 +25,7 @@ Experiences
 ==========
 
 ### Machine Learning Engineer, Software R&D Team
-- **Organization**: CLO Virtual Fashion Inc.
+- **Organization**: CLO Virtual Fashion Inc, Seoul, South Korea
 - **Period**: Jan 2025 - Present
 - **Work**: AI research and development for CLO's software
 
