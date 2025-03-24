@@ -25,28 +25,28 @@ Experiences
 ==========
 
 ### Machine Learning Engineer, Software R&D Team
-- CLO Virtual Fashion Inc.
-- **Since**: Jan 2025
+- **Organization**: CLO Virtual Fashion Inc.
+- **Period**: Jan 2025 - Present
 - **Work**: AI research and development for CLO's software
 
 ### Researcher, the Center for Artificial Intelligence Research (xrHuman Lab)
-- Korea Institute of Science and Technology, Seoul, South Korea
-- **Date**: Mar 2023 - Dec 2024
+- **Organization**: Korea Institute of Science and Technology, Seoul, South Korea
+- **Period**: Mar 2023 - Dec 2024
 - **Work**: Deep learning in 3D scene and avatar reconstruction
 
 ### Master’s Course Researcher, UNIST Vision and Learning Lab
-- Ulsan National Institute of Science and Technology, Ulsan, South Korea
-- **Date**: Mar 2021 - Feb 2023
+- **Organization**: Ulsan National Institute of Science and Technology, Ulsan, South Korea
+- **Period**: Mar 2021 - Feb 2023
 - **Work**: Deep learning in face reenactment and avatar generation
 
 ### Undergraduate Researcher, Yonsei HCI Lab
-- Yonsei University, Seoul, South Korea
-- **Date**: Sep 2019 - Feb 2020
+- **Organization**: Yonsei University, Seoul, South Korea
+- **Period**: Sep 2019 - Feb 2020
 - **Work**: Developed NLP chatbot for emotional cognition
 
 ### Undergraduate Researcher, Light Fields Lab
-- Sookmyung Women's University, Seoul, South Korea
-- **Date**: Jul 2019 - Mar 2020
+- **Organization**: Sookmyung Women's University, Seoul, South Korea
+- **Period**: Jul 2019 - Mar 2020
 - **Work**: Optimized virtual view algorithms and HUD measurement
 
 ---
