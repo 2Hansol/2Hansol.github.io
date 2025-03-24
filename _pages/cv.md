@@ -21,7 +21,7 @@ Education
 
 ---
 
-Experiences
+Experience
 ==========
 
 ### Machine Learning Engineer, Software R&D Team
