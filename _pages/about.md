@@ -21,7 +21,20 @@ Experiences
 ======
 
 
+### Machine Learning Engineer
+- CLO Virtual Fashion, Seoul, South Korea
+- Software R&D
+- Jan 2025 - Present
 
+
+### Researcher 
+- Korea Institute of Science and Technology, Seoul, South Korea
+- Center for Artificial Intelligence Research
+- Mar 2023 - Dec 2024
+
+
+
+Researches
 ======
 
 <div style="margin-bottom: 30px;">
