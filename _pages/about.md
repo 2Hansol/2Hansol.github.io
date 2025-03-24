@@ -12,26 +12,10 @@ redirect_from:
 About Me
 ======
 
-Hello, I'm **Hansol Lee**, a **Computer Vision and Deep Learning Research Engineer** with specialized research interests in **3D avatar reconstruction, 3D scene reconstruction, and 2D image generation**. I received a dual bachelor's degree in economics and computer science from Sookmyung Women's University in Seoul, South Korea, and a master's degree in computer engineering from Ulsan National Institute of Science and Technology(UNIST) in Ulsan, South Korea.
+Hello, I'm **Hansol Lee**, a **Computer Vision and Deep Learning Research Engineer** with specialized research interests in 3D avatar reconstruction, 3D scene reconstruction, and 2D image generation. I currently work as a Machine Learning Engineer at CLO Virtual Fashion. I received a dual bachelor's degree in economics and computer science from Sookmyung Women's University in Seoul, South Korea, and a master's degree in computer engineering from Ulsan National Institute of Science and Technology(UNIST) in Ulsan, South Korea.
 
 **Research Interests.**
-Deep learning-driven computer vision with a focus on 3D human modeling, avatar reconstruction, and 3D scene reconstruction and generation. 
-
-Experiences
-======
-
-
-### Machine Learning Engineer
-- CLO Virtual Fashion, Seoul, South Korea
-- Software R&D
-- Jan 2025 - Present
-
-
-### Researcher 
-- Korea Institute of Science and Technology, Seoul, South Korea
-- Center for Artificial Intelligence Research
-- Mar 2023 - Dec 2024
-
+Deep learning-driven computer vision with a focus on 3D human modeling, avatar reconstruction, and 3D scene reconstruction and generation. Generative Model.
 
 
 Researches
