@@ -24,7 +24,7 @@ Researches
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
     <strong>ContactField: Implicit Field Representation for Multi-Person Interaction Geometry</strong><br>
-    <strong>Hansol Lee</strong>, Tackgeun You, Hansoo Park, Woohyeon Shim, Sanghyeon Kim, Hwasup Lim, NeurIPS 2024 <a href="https://1drv.ms/b/s!AgxxptoT53MUh8lpacM5p1ZvFk7nRg?e=pOmVvd" style="text-decoration:none;">[Link]</a><br>
+    <strong>Hansol Lee</strong>, Tackgeun You, Hansoo Park, Woohyeon Shim, Sanghyeon Kim, Hwasup Lim, NeurIPS 2024 <a href="[https://1drv.ms/b/s!AgxxptoT53MUh8lpacM5p1ZvFk7nRg?e=pOmVvd](https://proceedings.neurips.cc/paper_files/paper/2024/hash/435422305988b73c6cc00bcb29ba2531-Abstract-Conference.html)" style="text-decoration:none;">[Link]</a><br>
   </div>
   <div style="text-align: center;">
     <img src='/images/ContactField2.gif' alt="Dynamic Appearance Demo" width="1000" style="margin-top: 15px;"/>
