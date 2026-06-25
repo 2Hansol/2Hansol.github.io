@@ -31,18 +31,17 @@ redirect_from:
 
   .research-venue {
     display: inline-block;
-    padding: 0.05rem 0.35rem;
-    border-radius: 3px;
-    background: #f1f3f5;
-    color: #3d4852;
-    font-size: 0.85em;
+    color: #4a4a4a;
+    font-size: 1em;
     font-style: normal;
-    font-weight: 600;
+    font-weight: 500;
     white-space: nowrap;
   }
 
   .research-link {
-    margin-left: 0.3rem;
+    margin-left: 0.25rem;
+    color: inherit;
+    font-size: 1em;
     font-style: normal;
     font-weight: 400;
     text-decoration: none;
@@ -65,10 +64,10 @@ Researches
   <div style="margin-bottom: 15px;">
     <strong>DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation</strong><br>
     <span class="research-meta">Eungjune Shim, <strong class="author-highlight">Hansol Lee</strong>, Eunjung Ju</span><br>
-    <span class="research-detail"><span class="research-venue">ECCV 2026</span> <a href="" class="research-link">[Link]</a></span><br>
+    <span class="research-detail"><span class="research-venue">ECCV 2026</span> <span aria-hidden="true">·</span> <a href="" class="research-link">[Link]</a></span><br>
   </div>
   <div style="text-align: center;">
-    <img src='/images/DiffGI.png' alt="DiffGI Demo" width="700" style="margin-top: 15px;"/>
+    <img src='/images/DiffGI.png' alt="DiffGI Demo" width="600" style="margin-top: 15px;"/>
   </div>
 </div>
 
@@ -76,7 +75,7 @@ Researches
   <div style="margin-bottom: 15px;">
     <strong>ContactField: Implicit Field Representation for Multi-Person Interaction Geometry</strong><br>
     <span class="research-meta"><strong class="author-highlight">Hansol Lee</strong>, Tackgeun You, Hansoo Park, Woohyeon Shim, Sanghyeon Kim, Hwasup Lim</span><br>
-    <span class="research-detail"><span class="research-venue">NeurIPS 2024</span> <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/435422305988b73c6cc00bcb29ba2531-Paper-Conference.pdf" class="research-link">[Link]</a></span><br>
+    <span class="research-detail"><span class="research-venue">NeurIPS 2024</span> <span aria-hidden="true">·</span> <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/435422305988b73c6cc00bcb29ba2531-Paper-Conference.pdf" class="research-link">[Link]</a></span><br>
   </div>
   <div style="text-align: center;">
     <img src='/images/ContactField2.gif' alt="Dynamic Appearance Demo" width="1000" style="margin-top: 15px;"/>
@@ -86,8 +85,8 @@ Researches
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
     <strong>Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera</strong><br>
-    <span class="research-meta"><strong class="author-highlight">Hansol Lee</strong>, Junuk Cha, Yunhoe Ku, Jaeshin Yoon* and Seungryul Baek*</span><br>
-    <span class="research-detail"><span class="research-venue">arXiv 2024</span> <a href="https://arxiv.org/abs/2312.16842" class="research-link">[Link]</a></span><br>
+    <span class="research-meta"><strong class="author-highlight">Hansol Lee</strong>, Junuk Cha, Yunhoe Ku, Jaeshin Yoon and Seungryul Baek</span><br>
+    <span class="research-detail"><span class="research-venue">arXiv 2024</span> <span aria-hidden="true">·</span> <a href="https://arxiv.org/abs/2312.16842" class="research-link">[Link]</a></span><br>
   </div>
   <div style="text-align: center;">
     <img src='/images/Dymanic.gif' alt="Dynamic Appearance Demo" width="600" style="margin-top: 15px;"/>
@@ -97,8 +96,8 @@ Researches
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
     <strong>PIDiffu: Pixel-aligned Diffusion Model for High-Fidelity Clothed Human Reconstruction</strong><br>
-    <span class="research-meta">Jungeun Lee, Sanghun Kim, <strong class="author-highlight">Hansol Lee</strong>, Tserendorj Adiya,  Hwasup Lim*</span><br>
-    <span class="research-detail"><span class="research-venue">WACV 2024</span> <a href="https://openaccess.thecvf.com/content/WACV2024/html/Lee_PIDiffu_Pixel-Aligned_Diffusion_Model_for_High-Fidelity_Clothed_Human_Reconstruction_WACV_2024_paper.html" class="research-link">[Link]</a></span><br>
+    <span class="research-meta">Jungeun Lee, Sanghun Kim, <strong class="author-highlight">Hansol Lee</strong>, Tserendorj Adiya,  Hwasup Lim</span><br>
+    <span class="research-detail"><span class="research-venue">WACV 2024</span> <span aria-hidden="true">·</span> <a href="https://openaccess.thecvf.com/content/WACV2024/html/Lee_PIDiffu_Pixel-Aligned_Diffusion_Model_for_High-Fidelity_Clothed_Human_Reconstruction_WACV_2024_paper.html" class="research-link">[Link]</a></span><br>
   </div>
   <div style="text-align: center;">
     <img src='/images/PIDiffu.png' alt="PIDiffu Demo" width="600" style="margin-top: 15px;"/>
@@ -108,8 +107,8 @@ Researches
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
     <strong>3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image</strong><br>
-    <span class="research-meta">Junuk Cha, <strong class="author-highlight">Hansol Lee</strong>, Jaewon Kim, Bao, Jaeshin Yoon* and Seungryul Baek*</span><br>
-    <span class="research-detail"><span class="research-venue">WACV 2024</span> <a href="https://openaccess.thecvf.com/content/WACV2024/html/Cha_3D_Reconstruction_of_Interacting_Multi-Person_in_Clothing_From_a_Single_WACV_2024_paper.html" class="research-link">[Link]</a></span><br>
+    <span class="research-meta">Junuk Cha, <strong class="author-highlight">Hansol Lee</strong>, Jaewon Kim, Bao, Jaeshin Yoon and Seungryul Baek</span><br>
+    <span class="research-detail"><span class="research-venue">WACV 2024</span> <span aria-hidden="true">·</span> <a href="https://openaccess.thecvf.com/content/WACV2024/html/Cha_3D_Reconstruction_of_Interacting_Multi-Person_in_Clothing_From_a_Single_WACV_2024_paper.html" class="research-link">[Link]</a></span><br>
   </div>
   <div style="text-align: center;">
     <img src='/images/MultiRecon.png' alt="Multi person recon Demo" width="600" style="margin-top: 15px;"/>
@@ -119,8 +118,8 @@ Researches
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
     <strong>IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map</strong><br>
-    <span class="research-meta"><strong class="author-highlight">Hansol Lee</strong>, Yunhoe Ku, Eunseo Kim, Seungryul Baek*</span><br>
-    <span class="research-detail"><span class="research-venue">arXiv 2023</span> <a href="https://arxiv.org/abs/2306.04957" class="research-link">[Link]</a></span><br>
+    <span class="research-meta"><strong class="author-highlight">Hansol Lee</strong>, Yunhoe Ku, Eunseo Kim, Seungryul Baek</span><br>
+    <span class="research-detail"><span class="research-venue">arXiv 2023</span> <span aria-hidden="true">·</span> <a href="https://arxiv.org/abs/2306.04957" class="research-link">[Link]</a></span><br>
   </div>
   <div style="text-align: center;">
     <img src='/images/IFaceUV_gif2.gif' alt="IFaceUV Demo" width="600" style="margin-top: 15px;"/>
@@ -135,7 +134,7 @@ Researches
     <li>Chanwoo Kim, Hoseong Cho, <strong>Hansol Lee</strong>, Yunseong Cho, Seungryul Baek, "Survey on Graph Attention Networks for Computer Vision Research", JKAIA, 2021</li>
     <li>Changhwa Lee, Seongyeong Lee, Donguk Kim, Seungeun Lee, Junuk Cha, <strong>Hansol Lee</strong>, Yunseong Cho, Seungryul Baek, "3D simulation via hand pose estimation and model simplification", The Korean Institute of Electrical Engineers (KIEE), 2021.</li>
     <li>Jungyeon Lee, Chanmi Park, Sungwoon Moon, <strong>Hansol Lee</strong>, Sujin Lee, Jinwoo Kim, "A Study on the Digital Therapeutics Chatbot, U-Me for Alleviating Depression and Anxiety of Young Adults in 2030s", 2020 The HCI Society of Korea, 2020, 907</li>
-    <li>Sujin Lee**, <strong>Hansol Lee**</strong>, Sungwoon Moon**, Jinwoo Kim, "NLP-Based Chatbot Service for Emotional Cognition Enhancement", 2020 The HCI Society of Korea, 2020, 960</li>
+    <li>Sujin Lee, <strong>Hansol Lee</strong>, Sungwoon Moon, Jinwoo Kim, "NLP-Based Chatbot Service for Emotional Cognition Enhancement", 2020 The HCI Society of Korea, 2020, 960</li>
   </ul>
 </div>
 -->
