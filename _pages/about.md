@@ -17,6 +17,23 @@ redirect_from:
   .research-meta strong {
     font-weight: 300;
   }
+
+  .research-meta strong.author-highlight {
+    font-weight: 700;
+  }
+
+  .research-venue {
+    display: inline-block;
+    margin-left: 0.35rem;
+    padding: 0.05rem 0.35rem;
+    border-radius: 3px;
+    background: #f1f3f5;
+    color: #3d4852;
+    font-size: 0.85em;
+    font-style: normal;
+    font-weight: 600;
+    white-space: nowrap;
+  }
 </style>
 
 About Me
@@ -33,8 +50,18 @@ Researches
 
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
+    <strong>DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation</strong><br>
+    <span class="research-meta">Eungjune Shim, <strong class="author-highlight">Hansol Lee</strong>, Eunjung Ju <span class="research-venue">ECCV 2026</span> <a href="" style="text-decoration:none;">[Link]</a></span><br>
+  </div>
+  <div style="text-align: center;">
+    <img src='/images/DiffGI.png' alt="DiffGI Demo" width="1000" style="margin-top: 15px;"/>
+  </div>
+</div>
+
+<div style="margin-bottom: 30px;">
+  <div style="margin-bottom: 15px;">
     <strong>ContactField: Implicit Field Representation for Multi-Person Interaction Geometry</strong><br>
-    <span class="research-meta"><strong>Hansol Lee</strong>, Tackgeun You, Hansoo Park, Woohyeon Shim, Sanghyeon Kim, Hwasup Lim, NeurIPS 2024 <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/435422305988b73c6cc00bcb29ba2531-Paper-Conference.pdf" style="text-decoration:none;">[Link]</a></span><br>
+    <span class="research-meta"><strong class="author-highlight">Hansol Lee</strong>, Tackgeun You, Hansoo Park, Woohyeon Shim, Sanghyeon Kim, Hwasup Lim <span class="research-venue">NeurIPS 2024</span> <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/435422305988b73c6cc00bcb29ba2531-Paper-Conference.pdf" style="text-decoration:none;">[Link]</a></span><br>
   </div>
   <div style="text-align: center;">
     <img src='/images/ContactField2.gif' alt="Dynamic Appearance Demo" width="1000" style="margin-top: 15px;"/>
@@ -44,7 +71,7 @@ Researches
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
     <strong>Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera</strong><br>
-    <span class="research-meta"><strong>Hansol Lee</strong>, Junuk Cha, Yunhoe Ku, Jaeshin Yoon* and Seungryul Baek*,  arXiv 2024 <a href="https://arxiv.org/abs/2312.16842" style="text-decoration:none;">[Link]</a></span><br>
+    <span class="research-meta"><strong class="author-highlight">Hansol Lee</strong>, Junuk Cha, Yunhoe Ku, Jaeshin Yoon* and Seungryul Baek* <span class="research-venue">arXiv 2024</span> <a href="https://arxiv.org/abs/2312.16842" style="text-decoration:none;">[Link]</a></span><br>
   </div>
   <div style="text-align: center;">
     <img src='/images/Dymanic.gif' alt="Dynamic Appearance Demo" width="600" style="margin-top: 15px;"/>
@@ -54,7 +81,7 @@ Researches
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
     <strong>PIDiffu: Pixel-aligned Diffusion Model for High-Fidelity Clothed Human Reconstruction</strong><br>
-    <span class="research-meta">Jungeun Lee, Sanghun Kim, <strong>Hansol Lee</strong>, Tserendorj Adiya,  Hwasup Lim*, WACV 2024 <a href="https://openaccess.thecvf.com/content/WACV2024/html/Lee_PIDiffu_Pixel-Aligned_Diffusion_Model_for_High-Fidelity_Clothed_Human_Reconstruction_WACV_2024_paper.html" style="text-decoration:none;">[Link]</a></span><br>
+    <span class="research-meta">Jungeun Lee, Sanghun Kim, <strong class="author-highlight">Hansol Lee</strong>, Tserendorj Adiya,  Hwasup Lim* <span class="research-venue">WACV 2024</span> <a href="https://openaccess.thecvf.com/content/WACV2024/html/Lee_PIDiffu_Pixel-Aligned_Diffusion_Model_for_High-Fidelity_Clothed_Human_Reconstruction_WACV_2024_paper.html" style="text-decoration:none;">[Link]</a></span><br>
   </div>
   <div style="text-align: center;">
     <img src='/images/PIDiffu.png' alt="PIDiffu Demo" width="600" style="margin-top: 15px;"/>
@@ -64,7 +91,7 @@ Researches
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
     <strong>3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image</strong><br>
-    <span class="research-meta">Junuk Cha, <strong>Hansol Lee</strong>, Jaewon Kim, Bao, Jaeshin Yoon* and Seungryul Baek*, WACV 2024 <a href="https://openaccess.thecvf.com/content/WACV2024/html/Cha_3D_Reconstruction_of_Interacting_Multi-Person_in_Clothing_From_a_Single_WACV_2024_paper.html" style="text-decoration:none;">[Link]</a></span><br>
+    <span class="research-meta">Junuk Cha, <strong class="author-highlight">Hansol Lee</strong>, Jaewon Kim, Bao, Jaeshin Yoon* and Seungryul Baek* <span class="research-venue">WACV 2024</span> <a href="https://openaccess.thecvf.com/content/WACV2024/html/Cha_3D_Reconstruction_of_Interacting_Multi-Person_in_Clothing_From_a_Single_WACV_2024_paper.html" style="text-decoration:none;">[Link]</a></span><br>
   </div>
   <div style="text-align: center;">
     <img src='/images/MultiRecon.png' alt="Multi person recon Demo" width="600" style="margin-top: 15px;"/>
@@ -74,7 +101,7 @@ Researches
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
     <strong>IFaceUV: Intuitive Motion Facial Image Generation by Identity Preservation via UV map</strong><br>
-    <span class="research-meta"><strong>Hansol Lee</strong>, Yunhoe Ku, Eunseo Kim, Seungryul Baek*, arXiv 2023 <a href="https://arxiv.org/abs/2306.04957" style="text-decoration:none;">[Link]</a></span><br>
+    <span class="research-meta"><strong class="author-highlight">Hansol Lee</strong>, Yunhoe Ku, Eunseo Kim, Seungryul Baek* <span class="research-venue">arXiv 2023</span> <a href="https://arxiv.org/abs/2306.04957" style="text-decoration:none;">[Link]</a></span><br>
   </div>
   <div style="text-align: center;">
     <img src='/images/IFaceUV_gif2.gif' alt="IFaceUV Demo" width="600" style="margin-top: 15px;"/>
