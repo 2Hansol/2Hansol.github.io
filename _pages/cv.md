@@ -39,7 +39,7 @@ redirect_from:
     font-size: 1em;
     font-style: normal;
     font-weight: 500;
-    white-space: nowrap;
+    white-space: normal;
   }
 
   .research-link {
@@ -101,13 +101,13 @@ Publications
 <div class="cv-publication">
   <strong>DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation</strong><br>
   <span class="research-meta">Eungjune Shim, <strong class="author-highlight">Hansol Lee</strong>, Eunjung Ju</span><br>
-  <span class="research-detail"><span class="research-venue">ECCV 2026</span> <span aria-hidden="true">·</span> <a href="" class="research-link">[Link]</a></span>
+  <span class="research-detail"><span class="research-venue">European Conference on Computer Vision (<strong>ECCV</strong>) 2026</span> <span aria-hidden="true">·</span> <a href="" class="research-link">[Link]</a></span>
 </div>
 
 <div class="cv-publication">
   <strong>ContactField: Implicit Field Representation for Multi-Person Interaction Geometry</strong><br>
   <span class="research-meta"><strong class="author-highlight">Hansol Lee</strong>, Tackgeun You, Hansoo Park, Woohyeon Shim, Sanghyeon Kim, Hwasup Lim</span><br>
-  <span class="research-detail"><span class="research-venue">NeurIPS 2024</span></span>
+  <span class="research-detail"><span class="research-venue">Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>) 2024</span></span>
 </div>
 
 <div class="cv-publication">
@@ -119,13 +119,13 @@ Publications
 <div class="cv-publication">
   <strong>PIDiffu: Pixel-aligned Diffusion Model for High-Fidelity Clothed Human Reconstruction</strong><br>
   <span class="research-meta">Jungeun Lee, Sanghun Kim, <strong class="author-highlight">Hansol Lee</strong>, Tserendorj Adiya, Hwasup Lim</span><br>
-  <span class="research-detail"><span class="research-venue">WACV 2024</span></span>
+  <span class="research-detail"><span class="research-venue">IEEE/CVF Winter Conference on Applications of Computer Vision (<strong>WACV</strong>) 2024</span></span>
 </div>
 
 <div class="cv-publication">
   <strong>3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image</strong><br>
   <span class="research-meta">Junuk Cha, <strong class="author-highlight">Hansol Lee</strong>, Jaewon Kim, Nhat Nguyen Bao Truong, Jaeshin Yoon and Seungryul Baek</span><br>
-  <span class="research-detail"><span class="research-venue">WACV 2024</span></span>
+  <span class="research-detail"><span class="research-venue">IEEE/CVF Winter Conference on Applications of Computer Vision (<strong>WACV</strong>) 2024</span></span>
 </div>
 
 <div class="cv-publication">

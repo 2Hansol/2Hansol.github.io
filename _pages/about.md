@@ -35,7 +35,7 @@ redirect_from:
     font-size: 1em;
     font-style: normal;
     font-weight: 500;
-    white-space: nowrap;
+    white-space: normal;
   }
 
   .research-link {
@@ -64,7 +64,7 @@ Researches
   <div style="margin-bottom: 15px;">
     <strong>DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation</strong><br>
     <span class="research-meta">Eungjune Shim, <strong class="author-highlight">Hansol Lee</strong>, Eunjung Ju</span><br>
-    <span class="research-detail"><span class="research-venue">ECCV 2026</span> <span aria-hidden="true">·</span> <a href="" class="research-link">[Link]</a></span><br>
+    <span class="research-detail"><span class="research-venue">European Conference on Computer Vision (<strong>ECCV</strong>) 2026</span> <span aria-hidden="true">·</span> <a href="" class="research-link">[Link]</a></span><br>
   </div>
   <div style="text-align: center;">
     <img src='/images/DiffGI.png' alt="DiffGI Demo" width="600" style="margin-top: 15px;"/>
@@ -75,7 +75,7 @@ Researches
   <div style="margin-bottom: 15px;">
     <strong>ContactField: Implicit Field Representation for Multi-Person Interaction Geometry</strong><br>
     <span class="research-meta"><strong class="author-highlight">Hansol Lee</strong>, Tackgeun You, Hansoo Park, Woohyeon Shim, Sanghyeon Kim, Hwasup Lim</span><br>
-    <span class="research-detail"><span class="research-venue">NeurIPS 2024</span> <span aria-hidden="true">·</span> <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/435422305988b73c6cc00bcb29ba2531-Paper-Conference.pdf" class="research-link">[Link]</a></span><br>
+    <span class="research-detail"><span class="research-venue">Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>) 2024</span> <span aria-hidden="true">·</span> <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/435422305988b73c6cc00bcb29ba2531-Paper-Conference.pdf" class="research-link">[Link]</a></span><br>
   </div>
   <div style="text-align: center;">
     <img src='/images/ContactField2.gif' alt="Dynamic Appearance Demo" width="1000" style="margin-top: 15px;"/>
@@ -97,7 +97,7 @@ Researches
   <div style="margin-bottom: 15px;">
     <strong>PIDiffu: Pixel-aligned Diffusion Model for High-Fidelity Clothed Human Reconstruction</strong><br>
     <span class="research-meta">Jungeun Lee, Sanghun Kim, <strong class="author-highlight">Hansol Lee</strong>, Tserendorj Adiya,  Hwasup Lim</span><br>
-    <span class="research-detail"><span class="research-venue">WACV 2024</span> <span aria-hidden="true">·</span> <a href="https://openaccess.thecvf.com/content/WACV2024/html/Lee_PIDiffu_Pixel-Aligned_Diffusion_Model_for_High-Fidelity_Clothed_Human_Reconstruction_WACV_2024_paper.html" class="research-link">[Link]</a></span><br>
+    <span class="research-detail"><span class="research-venue">IEEE/CVF Winter Conference on Applications of Computer Vision (<strong>WACV</strong>) 2024</span> <span aria-hidden="true">·</span> <a href="https://openaccess.thecvf.com/content/WACV2024/html/Lee_PIDiffu_Pixel-Aligned_Diffusion_Model_for_High-Fidelity_Clothed_Human_Reconstruction_WACV_2024_paper.html" class="research-link">[Link]</a></span><br>
   </div>
   <div style="text-align: center;">
     <img src='/images/PIDiffu.png' alt="PIDiffu Demo" width="600" style="margin-top: 15px;"/>
@@ -108,7 +108,7 @@ Researches
   <div style="margin-bottom: 15px;">
     <strong>3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image</strong><br>
     <span class="research-meta">Junuk Cha, <strong class="author-highlight">Hansol Lee</strong>, Jaewon Kim, Nhat Nguyen Bao Truong, Jaeshin Yoon and Seungryul Baek</span><br>
-    <span class="research-detail"><span class="research-venue">WACV 2024</span> <span aria-hidden="true">·</span> <a href="https://openaccess.thecvf.com/content/WACV2024/html/Cha_3D_Reconstruction_of_Interacting_Multi-Person_in_Clothing_From_a_Single_WACV_2024_paper.html" class="research-link">[Link]</a></span><br>
+    <span class="research-detail"><span class="research-venue">IEEE/CVF Winter Conference on Applications of Computer Vision (<strong>WACV</strong>) 2024</span> <span aria-hidden="true">·</span> <a href="https://openaccess.thecvf.com/content/WACV2024/html/Cha_3D_Reconstruction_of_Interacting_Multi-Person_in_Clothing_From_a_Single_WACV_2024_paper.html" class="research-link">[Link]</a></span><br>
   </div>
   <div style="text-align: center;">
     <img src='/images/MultiRecon.png' alt="Multi person recon Demo" width="600" style="margin-top: 15px;"/>
