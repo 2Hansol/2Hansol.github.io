@@ -38,8 +38,12 @@ redirect_from:
     color: #4a4a4a;
     font-size: 1em;
     font-style: normal;
-    font-weight: 500;
+    font-weight: 400;
     white-space: normal;
+  }
+
+  .research-venue strong {
+    font-weight: 700;
   }
 
   .research-link {
