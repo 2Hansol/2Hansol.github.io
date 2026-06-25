@@ -107,7 +107,7 @@ Researches
 <div style="margin-bottom: 30px;">
   <div style="margin-bottom: 15px;">
     <strong>3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image</strong><br>
-    <span class="research-meta">Junuk Cha, <strong class="author-highlight">Hansol Lee</strong>, Jaewon Kim, Bao, Jaeshin Yoon and Seungryul Baek</span><br>
+    <span class="research-meta">Junuk Cha, <strong class="author-highlight">Hansol Lee</strong>, Jaewon Kim, Nhat Nguyen Bao Truong, Jaeshin Yoon and Seungryul Baek</span><br>
     <span class="research-detail"><span class="research-venue">WACV 2024</span> <span aria-hidden="true">·</span> <a href="https://openaccess.thecvf.com/content/WACV2024/html/Cha_3D_Reconstruction_of_Interacting_Multi-Person_in_Clothing_From_a_Single_WACV_2024_paper.html" class="research-link">[Link]</a></span><br>
   </div>
   <div style="text-align: center;">

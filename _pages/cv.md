@@ -124,7 +124,7 @@ Publications
 
 <div class="cv-publication">
   <strong>3D Reconstruction of Interacting Multi-Person in Clothing from a Single Image</strong><br>
-  <span class="research-meta">Junuk Cha, <strong class="author-highlight">Hansol Lee</strong>, Jaewon Kim, Bao, Jaeshin Yoon and Seungryul Baek</span><br>
+  <span class="research-meta">Junuk Cha, <strong class="author-highlight">Hansol Lee</strong>, Jaewon Kim, Nhat Nguyen Bao Truong, Jaeshin Yoon and Seungryul Baek</span><br>
   <span class="research-detail"><span class="research-venue">WACV 2024</span></span>
 </div>
 
